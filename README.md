@@ -1,5 +1,5 @@
 # Recycling/Upcycling Graphic Design - Automatic Design Elements Extraction and Vectorization
-This repository contains code and materials for the paper_Upcycling Graphic Design - Automatic Design Elements Extraction and Vectorization,_ contributed by Hong QU, K.P. Chau, and P.Y. Mok*. All rights reserved by authors.
+This repository contains code and materials for the paper _Upcycling Graphic Design - Automatic Design Elements Extraction and Vectorization, _contributed by Hong QU, K. P. Chau, and P. Y. Mok*. All rights reserved by authors.
 
 -----
 ## Introduction
