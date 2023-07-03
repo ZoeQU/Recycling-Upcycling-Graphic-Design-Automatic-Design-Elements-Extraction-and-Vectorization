@@ -11,7 +11,8 @@ experiments have demonstrated the effectiveness of the proposed method on design
 core design elements of an unknown image within around 29 seconds. The output vector graphics of design elements have very compact format, compared to other
 commercial software, and are optimized for reuse and re-editing.
 
-## Datasets
-Code for paper: Recycling/Upcycling Graphic Design - Automatic Design Elements Extraction and Vectorization
+![The method pipeline.](assets/framework.png)
 
+## Datasets
 Test images can be found at: 链接：https://pan.baidu.com/s/1H6Xh0LnLToJoCYW8DY7jYA?pwd=yikl 提取码：yikl
+![The method pipeline.](assets/examples.png)
