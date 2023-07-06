@@ -17,3 +17,6 @@ commercial software, and are optimized for reuse and re-editing.
 Test images can be found at: 链接：https://pan.baidu.com/s/1H6Xh0LnLToJoCYW8DY7jYA?pwd=yikl 提取码：yikl
 
 ![The method pipeline.](assets/teaser.png)
+
+## Configuration file
+Please see the _requirements.txt_
