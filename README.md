@@ -15,16 +15,16 @@ commercial software, and are optimized for reuse and re-editing.
 
 ## Application demo
 
-Moreover, we provide an interactive tool that allowsusers to efficiently extract and manipulate editable design elements with just a few clicks. The tool enables users to adjust the similarity threshold, which controls the level of detail and abstraction in the resulting vector image.
+Moreover, we provide an interactive tool that allowsusers to efficiently extract and manipulate editable design elements with just a few clicks. The tool enables users to adjust the similarity threshold, which determines the number of extracted editable design elements.
 
 Below, we demonstrate the results generated with different threshold values:
 
 <p align="center">
-  <img src="assets/thhre_1.gif" alt="Demo: Set threshold to 0.1" style="height: 280px; margin-right: 20px;" />
-  <img src="assets/thhre_4.gif" alt="Demo: Set threshold to 0.4" style="height: 280px;" />
+  <img src="assets/thhre_1.gif" alt="Demo: Set threshold to 0.55" style="height: 260px; margin-right: 20px;" />
+  <img src="assets/thhre_4.gif" alt="Demo: Set threshold to 0.85" style="height: 260px;" />
 </p>
 
-Comparison of threshold settings: Adjusting the threshold to 0.1 (left) results in a more detailed vectorization, while a threshold of 0.4 (right) produces a more abstract output.
+Comparison of threshold settings: Adjusting the threshold to 0.55 (left) results in fewer editable design elements, while a threshold of 0.85 (right) produces a larger number of ediitable design elements.
 
 ## Datasets
 Test images can be found at: 链接：https://pan.baidu.com/s/1H6Xh0LnLToJoCYW8DY7jYA?pwd=yikl 提取码：yikl
