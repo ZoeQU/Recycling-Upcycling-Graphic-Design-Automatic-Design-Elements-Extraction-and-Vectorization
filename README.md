@@ -15,7 +15,7 @@ commercial software, and are optimized for reuse and re-editing.
 
 ## Application demo
 
-Moreover, we provide an interactive tool that allows users to easily convert a raster image into a vector image with just a few clicks. The tool enables users to adjust the similarity threshold, which controls the level of detail and abstraction in the resulting vector image.
+Moreover, we provide an interactive tool that allowsusers to efficiently extract and manipulate editable design elements with just a few clicks. The tool enables users to adjust the similarity threshold, which controls the level of detail and abstraction in the resulting vector image.
 
 Below, we demonstrate the results generated with different threshold values:
 
