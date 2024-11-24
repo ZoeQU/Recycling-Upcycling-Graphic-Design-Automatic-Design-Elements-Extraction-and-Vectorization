@@ -20,8 +20,8 @@ Moreover, we provide an interactive tool that allowsusers to efficiently extract
 Below, we demonstrate the results generated with different threshold values:
 
 <p align="center">
-  <img src="assets/thhre_1.gif" alt="Demo: Set threshold to 0.1" style="height: 300px; margin-right: 20px;" />
-  <img src="assets/thhre_4.gif" alt="Demo: Set threshold to 0.4" style="height: 300px;" />
+  <img src="assets/thhre_1.gif" alt="Demo: Set threshold to 0.1" style="height: 280px; margin-right: 20px;" />
+  <img src="assets/thhre_4.gif" alt="Demo: Set threshold to 0.4" style="height: 280px;" />
 </p>
 
 Comparison of threshold settings: Adjusting the threshold to 0.1 (left) results in a more detailed vectorization, while a threshold of 0.4 (right) produces a more abstract output.
