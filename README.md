@@ -13,6 +13,22 @@ commercial software, and are optimized for reuse and re-editing.
 
 ![The method pipeline.](assets/framework.png)
 
+## Application demo
+
+We provide an interactive tool that allows users to easily convert a raster image into a vector image with just a few clicks. The tool enables users to adjust the similarity threshold, which controls the level of detail and abstraction in the resulting vector image.
+
+Below, we demonstrate the results generated with different threshold values:
+
+<p align="center">
+
+<img src="assets/thhre_1.gif" alt="Demo: Set threshold to 0.1" width="45%" />
+
+<img src="assets/thhre_4.gif" alt="Demo: Set threshold to 0.4" width="45%" />
+
+</p>
+
+Comparison of threshold settings: Adjusting the threshold to 0.1 (left) results in a more detailed vectorization, while a threshold of 0.4 (right) produces a more abstract output.
+
 ## Datasets
 Test images can be found at: 链接：https://pan.baidu.com/s/1H6Xh0LnLToJoCYW8DY7jYA?pwd=yikl 提取码：yikl
 
