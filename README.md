@@ -15,16 +15,13 @@ commercial software, and are optimized for reuse and re-editing.
 
 ## Application demo
 
-We provide an interactive tool that allows users to easily convert a raster image into a vector image with just a few clicks. The tool enables users to adjust the similarity threshold, which controls the level of detail and abstraction in the resulting vector image.
+Moreover, we provide an interactive tool that allows users to easily convert a raster image into a vector image with just a few clicks. The tool enables users to adjust the similarity threshold, which controls the level of detail and abstraction in the resulting vector image.
 
 Below, we demonstrate the results generated with different threshold values:
 
 <p align="center">
-
-<img src="assets/thhre_1.gif" alt="Demo: Set threshold to 0.1" width="45%" />
-
-<img src="assets/thhre_4.gif" alt="Demo: Set threshold to 0.4" width="45%" />
-
+  <img src="assets/thhre_1.gif" alt="Demo: Set threshold to 0.1" style="height: 300px; margin-right: 20px;" />
+  <img src="assets/thhre_4.gif" alt="Demo: Set threshold to 0.4" style="height: 300px;" />
 </p>
 
 Comparison of threshold settings: Adjusting the threshold to 0.1 (left) results in a more detailed vectorization, while a threshold of 0.4 (right) produces a more abstract output.
