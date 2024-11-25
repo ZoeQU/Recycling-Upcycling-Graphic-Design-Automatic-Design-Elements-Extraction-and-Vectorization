@@ -20,7 +20,7 @@ Moreover, we provide an interactive tool that allowsusers to efficiently extract
 Below, we demonstrate the results generated with different threshold values:
 
 <p align="center">
-  <img src="assets/thhre_1.gif" alt="Demo: Set threshold to 0.55" style="height: 260px; margin-right: 20px;" />
+  <img src="assets/thhre_1.gif" alt="Demo: Set threshold to 0.55" style="height: 260px; margin-right: 10px;" />
   <img src="assets/thhre_4.gif" alt="Demo: Set threshold to 0.85" style="height: 260px;" />
 </p>
 
